@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Hello, I'm Richard Padilla
 
-You can use the [editor on GitHub](https://github.com/rpadilla99/rpadilla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a sophomore at the University of California, Berkeley, studying Electrical Engineering and Computer Science. My passion for STEM, and specifically comouter science, has been only propelled to new heights during my time at UC Berkeley. I have taken CSb 61B, 61A, and 70. I am proficient at programming in Java, Python, and SQL. I also have experience in Scheme, Visual C++, and C.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website contains some of the projects I have completed in my computer science courses and also personal projects I have completed / am currently working on. 
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
